@@ -1,1 +1,10 @@
 Yadda yadda this is my document
+
+
+int score = 0;
+
+Update()
+{
+	Transform.translate(Vector3.up);
+	score = score + 1;
+}
